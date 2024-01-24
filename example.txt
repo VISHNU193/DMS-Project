@@ -1,0 +1,6 @@
+Certainly! If you want to encrypt and decrypt files without
+ generating new files, you can modify the script accordingly. The s
+ cript below reads the content of the original file, encrypts it, an
+ d then overwrites the original file with the encrypted content. Similarl
+ , for decryption, it reads the content of the encrypted file, decrypts it,
+  and overwrites the encrypted file with the decrypted content:
