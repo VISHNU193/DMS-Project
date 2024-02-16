@@ -30,18 +30,18 @@ class FileEncryptorApp:
         label3_text="DECRYPTION :\n\n\n(1)Obtain the Encrypted Data: Start with the encrypted data that you want to decrypt.\n This data should have been encrypted using a\n symmetric encryption algorithm with a specific secret key.\n\n(2)Acquire the Symmetric Key: You need the same secret key that was\nused for encryption in order to decrypt the data successfully.\nEnsure that you have access to this key.\n\n(3)Select the Decryption Algorithm: Choose the same symmetric encryption\nalgorithm that was used for encryption.Ensure that you\nhave a compatible decryption implementation for this algorithm.\n\n(4)Apply Decryption: Use the chosen decryption algorithm along with the symmetric\nkey to decrypt the encrypted data.Apply the algorithm to the ciphertext\nalong with the key to obtain the original plaintext.\n\n(5)Retrieve the Decrypted Data: Once the decryption process is complete, \nyou will have the original plaintext data that was encrypted.This data is now in its original, human-readable form.\n\n(6)Handle the Decrypted Data: Process, store, or transmit the decrypted data as needed for your application.\nEnsure that appropriate\nsecurity measures are in place to protect the data\'s confidentiality and integrity."
 
         l3_text="""
-1. Obtain the Encrypted Data: Start with the encrypted data that you want to decrypt. This data should have been encrypted using a symmetric encryption algorithm with a specific secret key.
+        1. Obtain the Encrypted Data: Start with the encrypted data that you want to decrypt. This data should have been encrypted using a symmetric encryption algorithm with a specific secret key.
 
-2. Acquire the Symmetric Key: You need the same secret key that was used for encryption in order to decrypt the data successfully. Ensure that you have access to this key.
+        2. Acquire the Symmetric Key: You need the same secret key that was used for encryption in order to decrypt the data successfully. Ensure that you have access to this key.
 
-3. Select the Decryption Algorithm: Choose the same symmetric encryption algorithm that was used for encryption. Ensure that you have a compatible decryption implementation for this algorithm.
+        3. Select the Decryption Algorithm: Choose the same symmetric encryption algorithm that was used for encryption. Ensure that you have a compatible decryption implementation for this algorithm.
 
-4. Apply Decryption: Use the chosen decryption algorithm along with the symmetric key to decrypt the encrypted data. Apply the algorithm to the ciphertext along with the key to obtain the original plaintext.
+        4. Apply Decryption: Use the chosen decryption algorithm along with the symmetric key to decrypt the encrypted data. Apply the algorithm to the ciphertext along with the key to obtain the original plaintext.
 
-5. Retrieve the Decrypted Data: Once the decryption process is complete, you will have the original plaintext data that was encrypted. This data is now in its original, human-readable form.
+        5. Retrieve the Decrypted Data: Once the decryption process is complete, you will have the original plaintext data that was encrypted. This data is now in its original, human-readable form.
 
-6. Handle the Decrypted Data: Process, store, or transmit the decrypted data as needed for your application. Ensure that appropriate security measures are in place to protect the data's confidentiality and integrity.
-"""
+        6. Handle the Decrypted Data: Process, store, or transmit the decrypted data as needed for your application. Ensure that appropriate security measures are in place to protect the data's confidentiality and integrity.
+        """
 
     
 
